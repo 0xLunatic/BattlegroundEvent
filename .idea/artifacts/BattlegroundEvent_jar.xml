@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BattlegroundEvent:jar">
+    <output-path>$PROJECT_DIR$/../localhost/plugins</output-path>
+    <root id="archive" name="BattlegroundEvent.jar">
+      <element id="module-output" name="BattlegroundEvent" />
+    </root>
+  </artifact>
+</component>
